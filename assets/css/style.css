@@ -188,7 +188,7 @@ body{
   height: auto;
 
 }
-.img-box p{
+.img-box figcaption{
     padding: 15px;
   text-align: center;
 }
